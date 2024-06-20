@@ -1,0 +1,1 @@
+Tomato is a modern and intuitive food delivery web app built using React and CSS. With its sleek and responsive design, Tomato aims to provide users with a seamless experience for ordering food from a diverse menu selection.
