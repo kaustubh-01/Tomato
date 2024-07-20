@@ -15,6 +15,9 @@ Tomato is a responsive food ordering application built with React.js and other f
 
 ## Screenshots
 
+### App View
+![App View](./public/tomato-00.png)
+
 ### Cart View
 ![Cart View](./path/to/your/images/tomato-cart-view.png)
 
